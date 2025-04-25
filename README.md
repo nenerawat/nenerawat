@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nenerawat
-- 👀 I’m interested in fount-end
+- 👀 I’m interested in front-end
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on fount-end project
+- 💞️ I’m looking to collaborate on front-end project
 - ⚡ Fun fact: Idk anything about coding 
 
 <!---
